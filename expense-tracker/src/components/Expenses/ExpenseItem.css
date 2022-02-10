@@ -1,0 +1,10 @@
+.expense {
+	display: grid;
+	grid-template-columns: 20% 30% 30% 20%;
+	column-gap: 1em;
+}
+
+.last-row {
+	display: flex;
+	flex-direction: row;
+}
